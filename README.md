@@ -1,0 +1,1 @@
+This is a project to summarize the latest news from the x platform.
